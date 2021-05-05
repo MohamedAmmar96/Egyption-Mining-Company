@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Dubai";
+    src: url("../webfonts/pages-fonts/Dubai-Regular.woff2") format("woff2"), url("../webfonts/pages-fonts/Dubai-Regular.woff") format("woff"), url("../webfonts/pages-fonts/Dubai-Regular.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Dubai";
+    src: url("../webfonts/pages-fonts/Dubai-Medium.woff2") format("woff2"), url("../webfonts/pages-fonts/Dubai-Medium.woff") format("woff"), url("../webfonts/pages-fonts/Dubai-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Dubai";
+    src: url("../webfonts/pages-fonts/Dubai-Bold.woff2") format("woff2"), url("../webfonts/pages-fonts/Dubai-Bold.woff") format("woff"), url("../webfonts/pages-fonts/Dubai-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Omar";
+    src: url("../webfonts/pages-fonts/Omar-Bold.woff2") format("woff2"), url("../webfonts/pages-fonts/Omar-Bold.woff") format("woff"), url("../webfonts/pages-fonts/OmarBold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}

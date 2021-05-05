@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57.364" height="62.822" viewBox="0 0 57.364 62.822">
+  <g id="Group_667" data-name="Group 667" transform="translate(-51.726 -49.218)">
+    <g id="Icon_feather-box" data-name="Icon feather-box" transform="translate(54.028 50.796)">
+      <path id="Path_885" data-name="Path 885" d="M58.061,44.655v-23.8A5.951,5.951,0,0,0,55.085,15.7L34.256,3.8a5.951,5.951,0,0,0-5.951,0L7.476,15.7A5.951,5.951,0,0,0,4.5,20.851v23.8A5.951,5.951,0,0,0,7.476,49.8L28.3,61.706a5.951,5.951,0,0,0,5.951,0L55.085,49.8a5.951,5.951,0,0,0,2.976-5.148Z" transform="translate(-5.303 -3.003)" fill="#002d5b" stroke="#dedddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_886" data-name="Path 886" d="M4.905,10.44,30.882,25.467,56.859,10.44" transform="translate(-4.102 4.313)" fill="#002d5b" stroke="#dedddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_887" data-name="Path 887" d="M18,47.994V18" transform="translate(8.78 11.75)" fill="#002d5b" stroke="#dedddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g id="Icon_feather-box-2" data-name="Icon feather-box" transform="translate(54.028 50.796)">
+      <path id="Path_885-2" data-name="Path 885" d="M58.061,44.655v-23.8A5.951,5.951,0,0,0,55.085,15.7L34.256,3.8a5.951,5.951,0,0,0-5.951,0L7.476,15.7A5.951,5.951,0,0,0,4.5,20.851v23.8A5.951,5.951,0,0,0,7.476,49.8L28.3,61.706a5.951,5.951,0,0,0,5.951,0L55.085,49.8a5.951,5.951,0,0,0,2.976-5.148Z" transform="translate(-4.5 -3.003)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_886-2" data-name="Path 886" d="M4.905,10.44,30.882,25.467,56.859,10.44" transform="translate(-4.102 4.313)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_887-2" data-name="Path 887" d="M18,47.994V18" transform="translate(8.78 11.75)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
